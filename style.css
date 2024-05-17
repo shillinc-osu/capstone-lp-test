@@ -6,12 +6,11 @@
 }
 
 .nav {
-    font-size : 25px;
+    font-size : 30px;
     min-width:200px;
     max-width:200px;
     text-align:center;
     margin:auto;
-    font-weight:lighter;
 }
 
 .link {
