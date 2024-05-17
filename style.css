@@ -49,14 +49,14 @@
 }
 
 .name_text {
-    font-size : 30px;
+    font-size : 45px;
     white-space: nowrap;
     text-align: left;
     line-height: 0px
 }
 
 .email_text {
-    font-size : 15px;
+    font-size : 30px;
     white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -73,7 +73,7 @@
 }
 
 .section_body {
-    font-size : 25px;
+    font-size : 35px;
     min-width:500px;
     max-width:500px;
     text-align:left;
