@@ -17,6 +17,7 @@
 .image{
     max-width:400px;
     display: block;
+    border-radius: 20px 20px 20px 20px;
 }
 
 .logo{
